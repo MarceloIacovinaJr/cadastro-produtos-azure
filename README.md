@@ -53,6 +53,10 @@ streamlit run lab001.py
 
 ![77270f0c-23fe-4632-81f1-ffe74b7ebbb2](https://github.com/user-attachments/assets/7b148329-16ee-45a3-9878-025030d632aa)
 
+✅ Tela do banco de dados (Azure)
+
+![c9f84a62-9442-41c6-b882-7ae7b02f1506](https://github.com/user-attachments/assets/e858ea7b-1193-46d4-b0ca-3deb5591f37b)
+
 
 ✅ Tela de Cadastro de produto
 
