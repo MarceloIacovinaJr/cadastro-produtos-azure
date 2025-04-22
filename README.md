@@ -1,4 +1,4 @@
-**CADASTRO DE PRODUTOS COM AZURE + PYTHON + STREAMLIT**
+**CADASTRO DE PRODUTOS COM AZURE + SQL SERVER + PYTHON + STREAMLIT**
 
 Este projeto foi desenvolvido como parte do curso Azure Cloud Native,
 com o objetivo de aplicar conceitos práticos de desenvolvimento em nuvem utilizando Python, Streamlit, Azure Blob Storage e Microsoft SQL Server.
